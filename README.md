@@ -18,7 +18,7 @@ I love design, learning new technologies, and am currently trying to learn more 
 
 ### :link: Links 
 
-[Portfolio](http://www.glyde.com.br) (WIP)
+<a href="http://www.glyde.com.br" ><img src="http://www.glyde.com.br/images/Logo w font.png" width=200 />Portfolio</a>
 
 [![GitHub Badge](https://img.shields.io/github/followers/TGlide?label=follow&style=social)](https://github.com/TGlide)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gl)](https://www.linkedin.com/in/thomas-gl)
