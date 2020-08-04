@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋 Hi there 
 
-<!--
-**TGlide/TGlide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 My name is Thomas, and I'm a full-stack web developer.
 
-Here are some ideas to get you started:
+I love 🎨 design, learning new 💾 technologies, and am currently trying to 🧠 learn more about data science and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :tada: Things I love 
+
+- Vue.js
+- Python
+- Typescript
+- Figma
+- Pizza & Brownie
+
+### :pencil2: Things I'm trying out 
+
+- Svelte
+- Nest js
+
+### :link: Links 
+
+[Portfolio](http://www.glyde.com.br) (WIP)
