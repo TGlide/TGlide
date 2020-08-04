@@ -19,3 +19,7 @@ I love design, learning new technologies, and am currently trying to learn more 
 ### :link: Links 
 
 [Portfolio](http://www.glyde.com.br) (WIP)
+
+[![GitHub Badge](https://img.shields.io/github/followers/TGlide?label=follow&style=social)](https://github.com/TGlide)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gl)](https://www.linkedin.com/in/thomas-gl)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thomglopes)](https://www.instagram.com/thomglopes)
