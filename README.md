@@ -1,8 +1,7 @@
 ### 👋 Hi there 
+My name is Thomas, and I'm a full-stack web developer.
 
-👨‍💻 My name is Thomas, and I'm a full-stack web developer.
-
-I love 🎨 design, learning new 💾 technologies, and am currently trying to 🧠 learn more about data science and AI.
+I love design, learning new technologies, and am currently trying to learn more about data science and AI.
 
 ### :tada: Things I love 
 
