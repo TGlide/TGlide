@@ -6,15 +6,18 @@ I love design, learning new technologies, and am currently trying to learn more 
 ### :tada: Things I love 
 
 - Vue.js
-- Python
+- React
+- Next.js
+- Svelte
 - Typescript
+- Python
 - Figma
 - Pizza & Brownie
 
 ### :pencil2: Things I'm trying out 
 
-- Svelte
 - Nest js
+- GraphQL
 
 ### :link: Links 
 
