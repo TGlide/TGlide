@@ -5,10 +5,10 @@ I love design, learning new technologies, and am currently trying to learn more 
 
 ### :tada: Things I love 
 
+- Svelte
+- Next.js
 - Vue.js
 - React
-- Next.js
-- Svelte
 - Typescript
 - Python
 - Figma
