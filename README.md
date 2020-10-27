@@ -16,8 +16,8 @@ I love design, learning new technologies, and am currently trying to learn more 
 
 ### :pencil2: Things I'm trying out 
 
-- Nest js
 - GraphQL
+- Go
 
 ### :link: Links 
 
