@@ -5,19 +5,20 @@ I love design, learning new technologies, and prototyping new ideas!
 
 ### :tada: Things I love 
 
-- Svelte
-- Next.js
-- Vue.js
-- React
 - Typescript
+- Next.js
+- React
+- Svelte
 - Python
+- Vue.js
 - Figma
-- Pizza & Brownie
+- Pizza & Brownies
 
 ### :pencil2: Things I'm trying out 
 
 - GraphQL
 - Go
+- Julia
 
 ### :link: Links 
 
