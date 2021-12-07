@@ -22,7 +22,7 @@ I love design, learning new technologies, and prototyping new ideas!
 
 ### :link: Links 
 
-<a href="http://www.glyde.com.br" >🌐 My Portfolio website</a>
+<a href="https://www.thomasglopes.com" >🌐 My Portfolio website</a>
 
 [![GitHub Badge](https://img.shields.io/github/followers/TGlide?label=follow&style=social)](https://github.com/TGlide)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-gl)](https://www.linkedin.com/in/thomas-gl)
