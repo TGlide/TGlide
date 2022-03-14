@@ -9,13 +9,13 @@ I love design, learning new technologies, and prototyping new ideas!
 - Svelte
 - Next.js
 - React
+- GraphQL
 - Python
 - Figma
 - Pizza & Brownies
 
 ### :pencil2: Things I'm trying out 
 
-- GraphQL
 - Go
 - Julia
 
