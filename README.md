@@ -6,11 +6,10 @@ I love design, learning new technologies, and prototyping new ideas!
 ### :tada: Things I love 
 
 - Typescript
+- Svelte
 - Next.js
 - React
-- Svelte
 - Python
-- Vue.js
 - Figma
 - Pizza & Brownies
 
