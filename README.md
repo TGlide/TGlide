@@ -5,8 +5,8 @@ I love design, learning new technologies, and prototyping new ideas!
 
 ### :tada: Things I love 
 
+- Svelte & SvelteKit
 - Typescript
-- Svelte
 - Next.js
 - React
 - GraphQL
