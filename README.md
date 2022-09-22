@@ -7,8 +7,9 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - Svelte & SvelteKit
 - Typescript
-- Next.js
-- React
+- Vue & Nuxt
+- React & Next.js
+- tRPC
 - GraphQL
 - Python
 - Figma
