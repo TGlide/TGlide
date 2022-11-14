@@ -7,8 +7,6 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - Svelte & SvelteKit
 - Typescript
-- Vue & Nuxt
-- React & Next.js
 - tRPC
 - GraphQL
 - Python
@@ -19,6 +17,7 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - Go
 - Julia
+- SolidJS
 
 ### :link: Links 
 
