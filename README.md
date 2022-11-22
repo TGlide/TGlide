@@ -14,7 +14,7 @@ I love design, learning new technologies, and prototyping new ideas!
 [![GitHub Badge](https://img.shields.io/github/followers/TGlide?label=follow&style=for-the-badge&color=6cb288)](https://github.com/TGlide)
 
 
-## 🎉 Things I love 
+## 🎉 I love 
 
 - Svelte & SvelteKit
 - Typescript
@@ -24,7 +24,7 @@ I love design, learning new technologies, and prototyping new ideas!
 - Figma
 - Pizza & Brownies
 
-## 👀 Things I'm trying out 
+## 👀 I'm trying out 
 
 - Go
 - Julia
