@@ -26,9 +26,9 @@ I love design, learning new technologies, and prototyping new ideas!
 
 ## 👀 I'm trying out 
 
-- Go
-- Julia
 - SolidJS
+- Julia
+
 
 
 | Github stats | Top langs |
