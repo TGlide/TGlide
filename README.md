@@ -19,7 +19,6 @@ I love design, learning new technologies, and prototyping new ideas!
 - Svelte & SvelteKit
 - Typescript
 - tRPC
-- GraphQL
 - Python
 - Figma
 - Pizza & Brownies
