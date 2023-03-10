@@ -27,3 +27,5 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - SolidJS
 - Julia
+
+ ![Snake animation](https://github.com/tglide/tglide/blob/output/github-contribution-grid-snake.svg)
