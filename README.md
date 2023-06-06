@@ -6,6 +6,8 @@
 
 I love design, learning new technologies, and prototyping new ideas!
 
+[☕ Buy me a coffee to support my work](https://ko-fi.com/thomasglopes)
+
 <br>
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-a783c6?style=for-the-badge&logo=Svelte&logoColor=white&link=https://www.linkedin.com/in/thomas-gl)](https://www.thomasglopes.com/)
@@ -18,7 +20,8 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - Svelte & SvelteKit
 - Typescript
-- tRPC
+- Zod
+- a11y
 - Python
 - Figma
 - Pizza & Brownies
@@ -27,6 +30,4 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - SolidJS
 - Julia
-
-
-[☕ Buy me a coffee to support my work](https://ko-fi.com/thomasglopes)
+- Starlight
