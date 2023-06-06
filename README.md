@@ -27,3 +27,6 @@ I love design, learning new technologies, and prototyping new ideas!
 
 - SolidJS
 - Julia
+
+
+[☕ Buy me a coffee to support my work](https://ko-fi.com/thomasglopes)
