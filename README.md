@@ -25,9 +25,3 @@ I love design, learning new technologies, and prototyping new ideas!
 - Python
 - Figma
 - Pizza & Brownies
-
-## 👀 I'm trying out 
-
-- SolidJS
-- Julia
-- Starlight
