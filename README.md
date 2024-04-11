@@ -1,10 +1,8 @@
-<h1> 👋 Hi there! </h1>
+<h1> 👋 Hi. I'm Thomas. </h1>
 
 <img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=790b76117525cb2372e1afedd54b3d71d68ea4159848ec5b&rid=giphy.gif&ct=ts" align="right" width="250" />
 
-### My name is Thomas, and I'm a web developer.
-
-I love design, learning new technologies, and prototyping new ideas!
+I dabble into web stuff here and there, mostly related to the web and its intricacies.
 
 [☕ Buy me a coffee to support my work](https://ko-fi.com/thomasglopes)
 
